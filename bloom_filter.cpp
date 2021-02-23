@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// bloom filter implementation
+
 typedef function<unsigned int(string)> HashFunction;
 
 class BloomFilter
